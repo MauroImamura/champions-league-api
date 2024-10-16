@@ -43,7 +43,7 @@ Champions League API is a **Node.js** and **TypeScript** project built using the
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/MauroImamura/champions-league-api.git
    cd champions-league-api
    ```
 
